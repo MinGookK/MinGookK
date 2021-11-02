@@ -17,16 +17,19 @@
   <div>
     <img src="https://img.shields.io/badge/Prisma-27313f?style=flat-square&logo=prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/ApolloGraphQL-a300f0?style=flat-square&logo=apollographql&logoColor=white"/>
-
   </div>
   <br/>
   <i>Feel comfortable when I use this</i>
   <div>
     <img src="https://img.shields.io/badge/React-46caf3?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled_component-004070?style=flat-square&logo=styled-components&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Javascript-ebd519?style=flat-square&logo=Javascript&logoColor=white&fontColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-d84b26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-148bc8?style=flat-square&logo=css3&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Prisma-27313f?style=flat-square&logo=prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/ApolloGraphQL-a300f0?style=flat-square&logo=apollographql&logoColor=white"/>
   </div>
