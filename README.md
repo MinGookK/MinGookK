@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="display:flex; justify-content:center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Min&fontSize=90&desc=유저경험을%20가장먼저%20생각하는%20개발자가%20되겠습니다.&fontAlignY=40&descAlignY=60"/>
 </div>
 
