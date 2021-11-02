@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/Python-1e415e?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-5f92c6?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-005694?style=flat-square&logo=C%2b%2b&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/React-46caf3?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ebd519?style=flat-square&logo=Javascript&logoColor=white&fontColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-d84b26?style=flat-square&logo=html5&logoColor=white"/>
