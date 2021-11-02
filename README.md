@@ -1,5 +1,6 @@
+<div style="text-align:center;">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Min&fontSize=90&desc=유저경험을%20가장먼저%20생각하는%20개발자가%20되겠습니다.&fontAlignY=40&descAlignY=60"/>
-
+</div>
 
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
@@ -47,21 +48,3 @@
 <h6>
 현재 instacloning을 통해 구조를 학습하고 있습니다.
 </h6>
-
-
-
-
-<!--
-**MinGookK/MinGookK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
