@@ -46,7 +46,7 @@
 <h3> 📚 What I do in 2021 🗓 </h4>
 <h5>1. 그림은 내 취미: DrawBy</h5>
   
-<a href="https://github.com/MinGookK/instaclone-backend">
+<a href="https://github.com/kunholee98/DrawBy">
 <img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
 </a>
 <a href="https://github.com/MinGookK/instaclone-web">
