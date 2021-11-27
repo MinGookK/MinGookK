@@ -49,9 +49,9 @@
 <a href="https://github.com/kunholee98/DrawBy">
 <img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
 </a>
-<a href="https://github.com/MinGookK/instaclone-web">
+<a href="https://github.com/MinGookK/drawby-frontend">
 <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
 </a>
 <h6>
-현재 instacloning을 통해 구조를 학습하고 있습니다.
+  backend 개발 완료 이후 frontend 개발 중에 변경이 필요한 경우에 수정하고 있습니다.
 </h6>
