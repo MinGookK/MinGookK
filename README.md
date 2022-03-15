@@ -32,5 +32,7 @@
 <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
 </a>
 
-<h6>Resume</h6>
+
 <a href="https://dusty-saxophone-27d.notion.site/love-to-challenge-2022-840d4b43c0ce4d7f8649914cbb8e24f3">
+<h6>Resume</h6>
+</a>
