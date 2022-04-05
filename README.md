@@ -26,7 +26,7 @@
   <h5>GDSC Solution Challenge</h5>
 
   <a href="https://github.com/Solution-Challenge-GIST/GDSC_front">
-    <img src="https://img.shields.io/badge/Frontend-004070?style=flat-square&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
   </a>
 
   <h3> 📚 What I do in 2021 🗓 </h4>
