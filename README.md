@@ -42,7 +42,7 @@
 
 <div align="center">
 <h3> 📃 Resume </h3>
-<a href="https://dusty-saxophone-27d.notion.site/love-to-challenge-2022-840d4b43c0ce4d7f8649914cbb8e24f3">
+<a href="https://dusty-saxophone-27d.notion.site/MinGook-Kim-love-to-challenge-2022-04-6a723ac84d8e4613bbe152c7819a9cab">
 <img src="https://img.shields.io/badge/Resume-309030?style=flat-square&logo=&logoColor=white"/>
 </a>
 </div>
