@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <h3> 📚 What I do in 2022 🗓 </h4>
-  <h5>GDSC Solution Challenge</h5>
+  <h5>GDSC Solution Challenge(Soridam)</h5>
 
   <a href="https://github.com/Solution-Challenge-GIST/GDSC_front">
     <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
