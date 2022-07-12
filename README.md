@@ -1,5 +1,5 @@
 <div style="display:flex; justify-content:center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Min&fontSize=90&desc=도전을%20즐기는%20개발자%20입니다.&fontAlignY=40&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Phillip&fontSize=90&desc=도전을%20즐기는%20개발자%20입니다.&fontAlignY=40&descAlignY=60"/>
 </div>
 
 <div align="center">
