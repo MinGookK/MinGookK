@@ -20,25 +20,7 @@
     
 
 </div>
-<br />
-<div align="center">
-  <h3> 📚 What I do in 2022 🗓 </h4>
-  <h5>GDSC Solution Challenge(Soridam)</h5>
 
-  <a href="https://github.com/Solution-Challenge-GIST/GDSC_front">
-    <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
-  </a>
-
-  <h3> 📚 What I do in 2021 🗓 </h4>
-  <h5>1. 그림은 내 취미: DrawBy</h5>
-
-  <a href="https://github.com/kunholee98/DrawBy">
-    <img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MinGookK/drawby-frontend">
-    <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
-  </a>
-</div>
 
 <div align="center">
 <h3> 📃 Resume </h3>
